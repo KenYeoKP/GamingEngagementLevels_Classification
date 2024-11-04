@@ -1,7 +1,7 @@
 # Gaming Behavior Analysis Project
 
 ## Purpose
-The purpose of this project is to analyze gaming behavior data to predict player engagement levels using machine learning models.
+This project analyses gaming behavior data to predict player engagement levels using machine learning models.
 
 ## Setup
 
